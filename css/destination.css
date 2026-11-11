@@ -53,3 +53,8 @@ i {
     height: 50%;
   }
 }
+
+button {
+  border: none;
+  background-color: white;
+}
